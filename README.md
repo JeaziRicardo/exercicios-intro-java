@@ -1,9 +1,9 @@
-# Exercícios Java ☕
+# ☕ Exercícios Java ☕
 
 
 ## Sobre :page_facing_up:
 
-Esse repositório guarda exercícios de introdução a linguagem Java.
+Esse repositório guarda exercícios de introdução ao Java.
 Para visualizar a resolução dos exercícios, vá até `src\App.java` em cada diretório.
 
 ## Direitos Autorais ©️
