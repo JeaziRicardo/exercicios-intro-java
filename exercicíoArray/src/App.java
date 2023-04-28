@@ -7,5 +7,9 @@ public class App {
         for (int index = 0; index < 4; index += 1) {
             countries[index] = JOptionPane.showInputDialog("Digite o nome de um país");
         }
+
+        for (String countriesList : countries) {
+            System.out.println(countriesList);
+        }
     }
 }
