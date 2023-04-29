@@ -9,6 +9,8 @@ public class App {
         cars.add("Ford Mustang");
         cars.add("Fiat Uno");
 
+        cars.set(3, "Fiat Fastback");
+
         System.out.println(cars);
     }
 }
