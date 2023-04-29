@@ -22,5 +22,11 @@ public class App {
         cars.clear();
 
         System.out.println(cars);
+
+        if (cars.isEmpty()) {
+            System.out.println("A lista de carros está vazia");
+        } else {
+            System.out.println("A lista de carros não está vazia");
+        }
     }
 }
