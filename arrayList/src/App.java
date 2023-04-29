@@ -8,5 +8,7 @@ public class App {
         cars.add("BMW X5");
         cars.add("Ford Mustang");
         cars.add("Fiat Uno");
+
+        System.out.println(cars);
     }
 }
