@@ -18,7 +18,7 @@ public class App {
         cars.add(JOptionPane.showInputDialog("Digite o nome do carro: "));
 
         System.out.println(cars);
-
+        /*
         cars.clear();
 
         System.out.println(cars);
@@ -28,5 +28,6 @@ public class App {
         } else {
             System.out.println("A lista de carros não está vazia");
         }
+        */
     }
 }
