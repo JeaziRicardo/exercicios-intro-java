@@ -29,5 +29,8 @@ public class App {
             System.out.println("A lista de carros não está vazia");
         }
         */
+        if (cars.contains("Fiat Fastback")) {
+            System.out.println("fiat");
+        }
     }
 }
