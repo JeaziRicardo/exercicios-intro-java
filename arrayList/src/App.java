@@ -20,5 +20,7 @@ public class App {
         System.out.println(cars);
 
         cars.clear();
+
+        System.out.println(cars);
     }
 }
