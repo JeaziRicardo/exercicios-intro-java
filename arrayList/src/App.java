@@ -11,6 +11,8 @@ public class App {
 
         cars.set(3, "Fiat Fastback");
 
+        cars.remove("BMW X5");
+
         System.out.println(cars);
     }
 }
