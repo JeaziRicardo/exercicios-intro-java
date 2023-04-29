@@ -18,5 +18,7 @@ public class App {
         cars.add(JOptionPane.showInputDialog("Digite o nome do carro: "));
 
         System.out.println(cars);
+
+        cars.clear();
     }
 }
