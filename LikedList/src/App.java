@@ -13,5 +13,7 @@ public class App {
         cars.addLast("Pontiac GTO");
 
         System.out.println(cars);
+
+        cars.removeFirst();
     }
 }
