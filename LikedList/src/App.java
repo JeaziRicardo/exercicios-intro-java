@@ -19,5 +19,7 @@ public class App {
         cars.removeLast();
 
         System.out.println(cars);
+
+        System.out.println(cars.getFirst());
     }
 }
