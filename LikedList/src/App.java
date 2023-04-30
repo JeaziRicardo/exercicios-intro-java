@@ -21,5 +21,7 @@ public class App {
         System.out.println(cars);
 
         System.out.println(cars.getFirst());
+
+        System.out.println(cars.getLast());
     }
 }
