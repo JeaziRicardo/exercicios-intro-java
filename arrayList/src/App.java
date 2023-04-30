@@ -35,6 +35,8 @@ public class App {
                     cars.set(index, "Lamborghini Urus");
                 }
             }
+        } else {
+            System.out.println("O carro não foi encontrado");
         }
 
         System.out.println(cars);
