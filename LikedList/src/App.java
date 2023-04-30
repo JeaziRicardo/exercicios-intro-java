@@ -10,6 +10,8 @@ public class App {
 
         cars.addFirst("Dodge Challenger");
 
+        cars.addLast("Pontiac GTO");
+
         System.out.println(cars);
     }
 }
