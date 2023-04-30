@@ -30,7 +30,11 @@ public class App {
         }
         */
         if (cars.contains("Fiat Fastback")) {
-            System.out.println("fiat");
+            for (int index = 0; index < cars.size(); index += 1) {
+                if ("Fiat Fastback".equals(cars.get(index))) {
+                    cars.set(index, "Lamborghini Urus");
+                }
+            }
         }
     }
 }
