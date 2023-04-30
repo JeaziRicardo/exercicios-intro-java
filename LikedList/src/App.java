@@ -8,6 +8,8 @@ public class App {
         cars.add("Shelby Cobra");
         cars.add("Chevrolet Camaro");
 
+        cars.addFirst("Dodge Challenger");
+
         System.out.println(cars);
     }
 }
