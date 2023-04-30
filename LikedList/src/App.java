@@ -15,5 +15,7 @@ public class App {
         System.out.println(cars);
 
         cars.removeFirst();
+
+        System.out.println(cars);
     }
 }
